@@ -59,15 +59,9 @@ alert("talk is cheap,show me your code");
 print("talk is cheap,show me your code")
 ```
 ### Lua
-一种轻量级脚本语言
-```lua
-print('talk is cheap,show me your code')
-```
-或
 ```lua
 print 'talk is cheap,shoe me your code'
 ```
-两种都可以。
 ### node.js
 ```js
 console.log('talk is cheap,show me your code')
