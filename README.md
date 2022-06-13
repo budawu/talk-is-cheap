@@ -1,3 +1,14 @@
+<style>
+    h1 {
+        font-family: "Segoe UI" ;
+    }
+    h3 {
+        font-family: "Jetbrains Mono" ;
+    }
+    code {
+        font-family: "Ubuntu" ;
+    }
+</style>
 # Talk is cheap,show me your code-空谈无价，给我代码
 这句话~~梗~~出自Linux开发过程，有不同版本的中文翻译：
  * 闲话少说，放码过来
